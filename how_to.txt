@@ -1,0 +1,5 @@
+build (and run??):
+zig build sample
+zig build pong
+zig build breakout
+zig build space_invaders
