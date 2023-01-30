@@ -1,4 +1,4 @@
-Three simple games in Zig (v.0.9.1) with Raylib (4.2.0)
+Three simple games in Zig (v.0.9.1) with Raylib (v4.5-dev)
 
 # How to Build
 
@@ -11,3 +11,15 @@ These games were built of each other but some insights were provided by the foll
 + https://thatonegamedev.com/ansi-c/prgramming-a-pong-game-in-ansi-c/
 + https://rembound.com/articles/the-breakout-tutorial-with-cpp-and-sdl-2
 + https://monsterbraininc.com/2018/12/raylib-game-tutorial-space-invaders-using-vscode/
+
+### Raylib Repo
+https://github.com/Not-Nik/raylib-zig
+
+# Other Simple Game Langs
+See how easy it is to build the same games in different languages
+
++ C# 
++ Go 
++ Jai 
++ Odin 
++ Zig
